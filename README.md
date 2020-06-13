@@ -92,6 +92,9 @@ Overall, we gained some very interesting insights about data scientists:
 - On the other hand, when the data scientist role is combined with that of an **academic researcher**, there is a negative correlation. So, **a Ph.D. may pay more.. as long as you finish it!**
 - Working for **organizations with more than 10k employees** or working as a **freelancer** was positively correlated to salary. So, **go big..or go home!**
 
+### Publications
+
+For a non-technical review of the results of this analysis, you can [read my story on Medium](https://medium.com/@leedah/this-is-what-a-data-scientist-looks-like-aefa5c658d54?sk=c1ba5824f42da17e20609892ebfc6301).
 
 ## Future improvements
 
