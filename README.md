@@ -66,7 +66,7 @@ Overall, we gained some very interesting insights about data scientists:
 ### Educational background
 
 #### Data Scientists have a different educational background compared to other developer roles.
-- Regarding the highest level of formal education obtained, **39% of Data Scientists have completed a Master's or a Ph.D. degree** compared to **28%** of the developers in general.
+- Regarding the highest level of formal education obtained, about **60% of Data Scientists have completed a Master's or a Ph.D. degree** compared to **30%** of the developers in general.
 - Regarding the undergraduate major, **48% of Data Scientists have completed a Computer Science or Software Engineering related degree** compared to **61%** of the developers in general.
 - There is no difference between data scientists and other developers regarding other types of non-degree education that they have participated in.
 
