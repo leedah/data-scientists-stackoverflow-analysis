@@ -94,7 +94,9 @@ Overall, we gained some very interesting insights about data scientists:
 
 ### Publications
 
-I wrote a post on Medium with a non-technical overview of the analysis, that it was published on _Towards Data Science_. You can read the story [here](https://towardsdatascience.com/this-is-what-a-data-scientist-looks-like-aefa5c658d54).
+I wrote a post on Medium with a non-technical overview of the analysis, that it was published on _Towards Data Science_. 
+
+You can read the story [here](https://towardsdatascience.com/this-is-what-a-data-scientist-looks-like-aefa5c658d54).
 
 ## Future improvements
 
